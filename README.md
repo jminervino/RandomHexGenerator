@@ -1,5 +1,5 @@
 ![TrocaDeCor](https://user-images.githubusercontent.com/93391317/152273109-3dcad0cf-080a-4fd4-9e25-bef477a67f52.PNG)
-# TrocaDeCor
+# Random Hex Generator
  Random hex generator basic Project: HTML / CSS / JAVASCRIPT
  
  > Status: Concluded ✔️
